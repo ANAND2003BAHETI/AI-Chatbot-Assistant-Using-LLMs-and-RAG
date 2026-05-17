@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+openai
+google-generativeai
+pymongo
+passlib
+python-jose
+sentence-transformers
+faiss-cpu
+pypdf
